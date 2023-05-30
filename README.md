@@ -12,8 +12,8 @@ The 3D Scene should consist of the following:
 For Making :
 1. For 3rd person camera Cinmachine is used for proper campera movement with car with delay and drag gives real experience to the players.
 2. Contoller Script is crated for movement of the car on input keys.
-3. race track is craated using :
-   Assests used : https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
+3. race track is crated using unity asset
+   Assets used : https://assetstore.unity.com/packages/3d/vehicles/land/arcade-free-racing-car-161085
 
 
 
